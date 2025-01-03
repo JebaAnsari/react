@@ -21,6 +21,7 @@ const NewComponent = ()=>(
 )
 const NewComponent1 = () =>{
 return <h4>with return statement</h4>
+
 }
 
 const HeadingComponent = () => (
